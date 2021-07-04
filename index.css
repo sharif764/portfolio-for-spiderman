@@ -50,7 +50,7 @@ body {
   color: #9545f4;
 }
 .column {
-  border: 1px solid white;
+  border-left: rgb(27, 24, 24);
   background-color: #eefbff;
   margin-left: 30px;
   margin-right: 30px;
