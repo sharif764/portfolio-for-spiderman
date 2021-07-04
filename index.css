@@ -37,12 +37,11 @@ body {
 .animation {
   width: 50%;
 }
+.y {
+  width: 50%;
+}
 .l {
   padding-left: 300px;
-}
-
-.y {
-  padding-bottom: 300px;
 }
 .nnnn {
   width: 61%;
