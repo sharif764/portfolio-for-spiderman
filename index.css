@@ -7,3 +7,6 @@
 body {
   font-family: "Uchen", serif;
 }
+.sec {
+  display: flex;
+}
